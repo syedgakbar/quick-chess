@@ -1,0 +1,15 @@
+QuickChess – End-User License Agreement (EULA)
+
+This license agreement applies to QuickChess Copyright (C) 2007-2010 Syed Ghulam Akbar. All rights reserved.
+
+By using the software, QuickChess, you accept the terms of this license.  If you do not agree to the terms of this license agreement, promptly stop using the software and erase all copies of the software in question.
+
+The software is distributed under the free-of-charge software concept (Freeware).  You are granted a license to use the software for free.
+
+Licensee may not modify the files contained in the Freeware software archive in any way, or for any reason without written permission from the author.  Licensee of this agreement may not reverse engineer, decompile, disassemble, or create derivative works of, the software.
+
+This software is copyrighted.  However, licensee may freely copy and share the software with others.  No charge may be collected for the distribution.  The files that are included in the Freeware software archive may be distributed, provided that all files are distributed together.  No files in any Freeware archive may be distributed unless all files are included.
+
+
+Warranty
+We make no warranties with respect to our software in question.  In no event shall we be liable for any damages, direct or incidental arising out of or related to the use of our Freeware software.

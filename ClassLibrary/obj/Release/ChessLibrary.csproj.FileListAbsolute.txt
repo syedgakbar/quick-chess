@@ -1,0 +1,6 @@
+D:\Projects\Misc\Chess\ClassLibrary\bin\Release\Chessbrary.dll
+D:\Projects\Misc\Chess\ClassLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Misc\Chess\ClassLibrary\obj\Release\Chessbrary.dll
+D:\Projects\Misc\Chess\Working\ClassLibrary\bin\Release\Chessbrary.dll
+D:\Projects\Misc\Chess\Working\ClassLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Misc\Chess\Working\ClassLibrary\obj\Release\Chessbrary.dll
