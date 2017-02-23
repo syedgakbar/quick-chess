@@ -330,7 +330,7 @@ namespace ChessLibrary
 			int MoveResult;
 
 			// check if it's user turn to play
-            if (this.Board[source].piece.Type != Piece.PieceType.Empty && this.Board[source].piece.Side.type == GameTurn)
+            if (this.Board[source].piece != null && this.Board[source].piece.Type != Piece.PieceType.Empty && this.Board[source].piece.Side.type == GameTurn)
 			{
 				Move UserMove = new Move(this.Board[source], this.Board[dest]);	// create the move object
 				MoveResult=m_Rules.DoMove(UserMove);
